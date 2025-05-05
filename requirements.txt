@@ -3,3 +3,4 @@ numpy==1.24.4
 plotly==5.15.0
 open3d==0.18.0
 protobuf==3.20.3
+python ==3.11.12
